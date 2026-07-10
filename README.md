@@ -78,5 +78,6 @@ Customer Insights Dashboard
 
 
 ---
-
+## 🧾 Author
+**Navitha M**  
 
